@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Live @ 500px.com</string>
+    <string name="button">Button</string>
+    <string name="content_description_button">Button</string>
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+    <string name="new_photos">New Photos</string>
+    <string name="i_am_moreinfofragment">I am MoreInfoFragment</string>
+</resources>
